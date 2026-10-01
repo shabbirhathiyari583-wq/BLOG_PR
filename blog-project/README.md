@@ -646,44 +646,7 @@ Fetch Blogs Again
 Blog Disappears
 ```
 
----
 
-# 📸 Screenshots
-
-All project screenshots should be stored inside the `screenshots` folder.
-
-```text
-screenshots/
-│
-├── dashboard.png
-├── add-blog.png
-├── edit-blog.png
-└── mobile-view.png
-```
-
-## 🖥️ Dashboard
-
-![BlogSpace Dashboard](./screenshots/dashboard.png)
-
----
-
-## ➕ Add Blog
-
-![Add Blog](./screenshots/add-blog.png)
-
----
-
-## ✏️ Edit Blog
-
-![Edit Blog](./screenshots/edit-blog.png)
-
----
-
-## 📱 Mobile View
-
-![BlogSpace Mobile View](./screenshots/mobile-view.png)
-
----
 
 # 📚 Sample Blogs
 
@@ -761,6 +724,21 @@ Some features that can be added in future versions:
 | 🟢 Status       | Completed              |
 
 ---
+
+## 🎥 Project Demo
+
+<p align="center">
+
+Watch the complete working demonstration of the **Blog Space** by clicking the button below.
+<p><strong>🎥 Click the button below to watch the complete working demonstration of this Image Slider project.</strong></p>
+
+<a href="https://drive.google.com/file/d/1Ii4WQTtAnUcBfhc11KD3X4MA7AHyk8hW/view?usp=sharing" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-Click%20Here-red?style=for-the-badge&logo=googleplay&logoColor=white">
+
+</a>
+
+</p>
 
 # 🏆 Project Status
 
